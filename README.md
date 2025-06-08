@@ -1,0 +1,2 @@
+# Minor
+VIth sem
